@@ -5,7 +5,7 @@ flags = {'analyst': '.analyst-page .home-page ',
          'homepage': ".home-page ",
          # 'search': ".analyst-page .home-page ",
          'stock': ".stock-page .home-page ",
-         'followed-analysts': ".fol-ana-page ",
+         'followed_analysts': ".fol-ana-page ",
          'usersign': '.user-page '}
 
 
